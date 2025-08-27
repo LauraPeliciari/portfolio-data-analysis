@@ -9,9 +9,9 @@ This project explores how users interact with a website based on session data fr
 - Analyze which marketing channels bring the most visits
 
 ## 📈 Dashboard
-**👉 [View Interactive Tableau Dashboard]((https://public.tableau.com/views/First-timeUserTrendAnalysis2017-Q1excl_US/First-timeUserTrendAnalysis2017-Q1excl_US?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**  
+**👉 [View Interactive Tableau Dashboard](https://public.tableau.com/views/First-timeUserTrendAnalysis2017-Q1excl_US/First-timeUserTrendAnalysis2017-Q1excl_US?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
 
-![Dashboard Preview]
+Dashboard Preview
 <img width="1998" height="1598" alt="image" src="https://github.com/user-attachments/assets/0c9cd845-3c51-4456-b19d-2416b5df4adb" />
 
 
@@ -33,7 +33,7 @@ This project explores how users interact with a website based on session data fr
 ## 📂 Files Included
 - `user_behavior_query.sql` – Final query used for the analysis
 - `README.md` – This project summary
-- `dashboard-preview.png` – (Optional) Screenshot of the published dashboard
+- `dashboard-preview.png` – Screenshot of the published dashboard
 
 ## 💡 Insights & Takeaways
 - Certain international markets (excluding the US) generate strong first-time user engagement.
