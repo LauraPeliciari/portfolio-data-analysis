@@ -49,7 +49,7 @@ This project was created as part of a personal data analytics portfolio to demon
 
 ## 🔗 Links
 - ▶️ [Tableau Dashboard](https://public.tableau.com/views/First-timeUserTrendAnalysis2017-Q1excl_US/First-timeUserTrendAnalysis2017-Q1excl_US?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- 💻 [GitHub Repository](https://github.com/your-username/your-repo-name)
+- 💻 [GitHub Repository](https://github.com/LauraPeliciari/portfolio-data-analysis)
 
 ---
 
