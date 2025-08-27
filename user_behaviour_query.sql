@@ -1,4 +1,7 @@
 
+-- User Behaviour Analysis: First-Time vs Returning Visitors
+-- Google Analytics Sample Data (BigQuery)
+
 SELECT 
   CASE 
     WHEN visitNumber = 1 THEN 'First-time' ELSE 'Returning' 
